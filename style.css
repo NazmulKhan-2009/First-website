@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.info{
+  width: 960px;
+  margin:50px auto;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.info{
+  color: blueviolet;
+}
+.info img{
+  border-radius: 20%;
+}
